@@ -138,3 +138,22 @@ body{
   border: 2px solid green;
   box-shadow: 0px 0px 0px 3px grey;
 }
+
+.maisopcoes{
+  background:url(./assets/mais.png);
+  background-size: cover;
+  width:45px;
+  height:45px;
+  border-radius:50px;
+  text-decoration:none;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  border: 2px solid white;
+  background-color:white;
+}
+.maisopcoes:hover {
+  background-color: black;
+}

@@ -13,7 +13,7 @@ body{
     border: 5px solid #FF2171;
     display: flex;
     position: absolute;
-    right: 92px;
+    right: 120px;
     top:120px;
 }
 .logo:hover {
@@ -21,7 +21,7 @@ body{
     height: 180px;
     border-radius: 120px;
     transition: ease-in-out 0.3s;
-    right: 65px;
+    right: 80px;
     top:120px;
     box-shadow: 5px  10px 10px 5px #FFABAB;
     border: 5px solid #FF2171;
@@ -36,7 +36,7 @@ body{
     border: 0px solid black;
     position: absolute;
     top:350px;
-    left:58px;
+    left:90px;
     cursor: pointer;
     text-decoration: none;
   }
